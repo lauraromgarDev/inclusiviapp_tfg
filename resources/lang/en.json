@@ -1,0 +1,246 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact",
+        "login": "Log In",
+        "register": "Register",
+        "projects": "Projects",
+        "teams": "Teams",
+        "students": "Students",
+        "requests": "Requests",
+        "interpreter": "Interpreter",
+        "my_projects": "My Projects",
+        "my_requests": "My Requests",
+        "my_space": "My Space",
+        "become_member": "Become a Member",
+        "logout": "Logout"
+    },
+    "carousel": {
+        "slide1_title": "inlusiviApp",
+        "slide1_subtitle": "Who We Are",
+        "slide1_content": "We achieve accessibility with inclusion and respect, valuing the diverse personal abilities that make us unique. We firmly believe that people are the greatest value in society and all our actions are aimed at improving their quality of life.",
+        "slide1_button": "Get to Know Us",
+        "slide2_title": "InclusiviApp",
+        "slide2_subtitle": "Discover Our Projects",
+        "slide2_list": [
+            "Music Therapy for All and Parent School",
+            "Inclusive and Accessible Theater School - Gloria Ramos",
+            "Spanish Sign Language School",
+            "Accessibility School",
+            "Inclusive Leisure"
+        ],
+        "slide2_button1": "Discover",
+        "slide2_button2": "Join Now",
+        "slide3_title": "InclusiviApp",
+        "slide3_subtitle": "Request ILSE or GILSE Service",
+        "slide3_content": "If you need a Spanish Sign Language Interpreter (ILSE) or Catalan Sign Language Interpreter (GILSE), you can count on us. Join us if you are not a member yet and you will be able to enjoy our service!",
+        "slide3_button1": "Request",
+        "slide3_button2": "Become a Member"
+    },
+    "about": {
+        "about_title": "About Us",
+        "app_name": "InclusiviApp",
+        "intro_paragraph": "We know you were expecting to find an 'about us' section here. But at Inclusive and Diverse, we believe you will get to know us better if we first tell you what we are not.",
+        "list_item1": "We are NOT assistance, we are learning.",
+        "list_item2": "We are NOT the same, we are wonderfully authentic.",
+        "list_item3": "We are NOT indifferent, we are what we believe.",
+        "list_item4": "We are NOT the destination, we are the millions of paths that accompany you until you reach it.",
+        "list_item5": "We are NOT just words, we are action and presence.",
+        "list_item6": "We are NOT a place, we are a space.",
+        "main_paragraph": "Oh, and we are NOT perfect either. We are simply a team of professionals with a strong vocation and a great love and respect for people and their diversities. We want to improve society, life, and why not, the world.",
+        "learn_more": "Get to Know Us"
+    },
+    "gallery_section": {
+        "title": "Our Projects"
+    },
+    "projects": [
+        {
+            "name": "Music Therapy for All and Parenting School",
+            "description": "Music therapy (MT) is a therapy where music is the main means of communication and expression. It promotes motor, cognitive, social, and emotional development towards improving the quality of life. It enhances cognitive functions such as attention, concentration, memory, impulse control, and the acquisition of new content. It also fosters creativity, concept formation, and mental agility. In addition, it contributes to learning and problem-solving.",
+            "team_description": "A professional with a Master's degree in Music Therapy and a degree in Music Education specializes in Music Therapy and provides support through Music Therapy workshops and a Parenting School. With experience in Early Childhood Intervention and the Socio-Educational field, this expert uses music as a therapeutic tool to promote the development and well-being of individuals. They also provide guidance and resources to parents, helping them strengthen parenting and the bond with their children through music. With a passion for equality, diversity, and love, this professional seeks growth and transformation through music therapy and support for parents in their educational role.",
+            "objectives": "<p>Music therapy is a therapeutic discipline that uses music as the main tool to promote well-being and health in individuals. Through active participation in structured musical experiences, it aims to work on various emotional, cognitive, physical, and social aspects. The objectives we pursue are:</p><ul><li>Promote emotional expression.</li><li>Improve communication and social interaction.</li><li>Stimulate cognitive and sensory development.</li><li>Reduce stress and promote relaxation.</li><li>Enhance quality of life.</li></ul>",
+            "destination": "The project will take place on Mondays from 17:00 to 18:30 at our headquarters, located at 1 San Juan de Dios Street, Córdoba."
+        },
+        {
+            "name": "Inclusive and Accessible Theater School - Gloria Ramos",
+            "description": "<p>'If you believe in yourself, there's nothing out of your reach.'</p><p>The Inclusive and Diverse Association brings to life this Diverse Theater project, where art and inclusion merge, creating a space for the concern and need to create a reality where people with different functional diversities can develop their abilities through theater.</p>",
+            "team_description": "Graduates in Dramatic Arts, Music Education, and Dance, along with professionals specializing in Accessibility and Social Inclusion, come together to develop workshops and theatrical activities adapted to each participant, fostering creativity, self-expression, communication, and teamwork. They firmly believe in the transformative power of art and its ability to promote social change and inclusion.",
+            "objectives": "<p>The objectives of the project are:</p><ul><li>Promote inclusion and equal opportunities through theater.</li><li>Foster creative and artistic expression of each participant.</li><li>Develop social and communication skills.</li><li>Improve self-esteem and self-confidence.</li><li>Enhance teamwork and collaboration.</li></ul>",
+            "destination": "The theater sessions will be held on Tuesdays from 18:00 to 19:30 at our headquarters, located at 1 San Juan de Dios Street, Córdoba."
+        },
+        {
+            "name": "Sign Language School",
+            "description": "<p>The society we live in is predominantly hearing, and most of the communication and information channels are oral-auditory. As a result, deaf individuals have limited access to information in their communicative interactions, leading to social isolation and hindered personal and intellectual development. At Inclusiv@s y Divers@s, we recognize the vital importance of addressing this issue.</p><p>We aim to raise awareness and promote social responsibility in the inclusion of deaf individuals in society, as reflected in the Spanish Sign Language Recognition Act (Law 27/2007 of October 23rd). By doing so, we strive for genuine inclusion and contribute to the achievement of Sustainable Development Goal 11: Sustainable Cities and Communities, fostering more inclusive, safe, resilient, and sustainable cities.</p>",
+            "image": "storage/images/P-signos.svg",
+            "team_description": "Our team consists of qualified professionals in Spanish Sign Language with extensive experience in education and inclusion. Together, we have formed the Sign Language School at Inclusiv@s y Divers@s. Through a perfect blend of art, equality, diversity, and love, we provide a platform for growth and artistic expression.",
+            "objectives": "<p>Sign language is the natural language of deaf individuals, making it crucial for society to learn and understand it in order to communicate and include deaf people. Our objectives include:</p><ul><li>Disseminating knowledge about functional diversity and raising awareness about the importance of inclusion in society.</li><li>Facilitating access to information, resources, and services that promote equal opportunities for individuals with disabilities.</li><li>Promoting interaction and collaboration between people with and without disabilities, fostering support networks and active participation.</li></ul>",
+            "destination": "The project will take place on Wednesdays from 17:00 to 18:30 at our headquarters, located at 1 San Juan de Dios Street, Córdoba."
+        },
+        {
+            "name": "Accessibility School",
+            "description": "<p>Universal accessibility refers to the condition that environments, processes, goods, products, and services must meet in order for all individuals to participate autonomously and with equal opportunities (Royal Legislative Decree 1/2013, of November 29, approving the Consolidated Text of the General Law on the Rights of Persons with Disabilities and their Social Inclusion).</p>",
+            "image": "storage/images/p-accesibilidad.svg",
+            "team_description": "Lucía is a specialist in universal accessibility, committed to ensuring that environments, processes, goods, products, and services are accessible to all individuals, providing equal opportunities and autonomy. With a deep knowledge of the legal framework, Lucía works tirelessly to create awareness about the importance of inclusion and promote accessible environments. Her main objective is to collaborate with organizations and communities to build a world where everyone, regardless of their abilities, can fully participate in society.",
+            "objectives": "<p>Inclusiv@s y Divers@s is an initiative committed to creating a fair and inclusive society where all individuals, regardless of their functional diversities, have equal opportunities. Through our work, we seek to eliminate barriers and promote inclusion through art, culture, and education.</p><p>Objectives:</p><ul><li>Disseminate knowledge of Spanish Sign Language among hearing individuals to eliminate communication barriers.</li><li>Raise awareness and promote understanding of the importance and values of the Deaf Community.</li><li>Sensitize society about the importance of creating a more inclusive society.</li><li>Highlight and value theater, art, and culture as tools for inclusion.</li><li>Create a new scenic language where diversity becomes an opportunity for enrichment.</li><li>Understand theater as a pedagogical mediation strategy for the integral development of all individuals.</li><li>Convey the importance of creating inclusive spaces where individuals with and without disabilities coexist, learn, grow, and feel fulfilled.</li><li>Create resources and materials that promote inclusion and accessibility in all areas of society.</li></ul>",
+            "destination": "The project will take place on Thursdays from 17:00 to 18:30 at our headquarters, located at 1 San Juan de Dios Street, Córdoba."
+        },
+        {
+            "name": "Inclusive Leisure",
+            "description": "<p>Inclusive leisure refers to a set of activities aimed at ensuring that people with disabilities can enjoy their free time. Both the Constitution, in its Article 49, and the United Nations Convention on the Rights of Persons with Disabilities state that leisure is a right for all individuals with disabilities.</p><p>Inclusive leisure requires the implementation of recreational and leisure activities that can be enjoyed by all types of people with disabilities. To ensure successful implementation, universal accessibility must be guaranteed, and a team of specialized professionals must be available to organize and coordinate activities that meet the needs of each person.</p>",
+            "image": "storage/images/P-ocio.svg",
+            "team_description": "<p>Sergio Pavón is passionate about inclusive leisure and a specialist in organizing and coordinating recreational and leisure activities for people with disabilities. With extensive experience in the field, Sergio is dedicated to promoting inclusion and ensuring that everyone can fully enjoy their free time.</p><p>As a committed professional, Sergio specializes in designing accessible activities tailored to the needs and abilities of each individual. Through the Inclusiv@s y Divers@s project, Sergio aims to break down barriers and create a more inclusive society, where everyone has equal opportunities to engage in leisure activities.</p>",
+            "objectives": "<p>The main objectives of the Inclusive Leisure project are:</p><ul><li>To promote and facilitate access to leisure activities for people with disabilities.</li><li>To raise awareness and sensitize society about the importance of inclusive leisure.</li><li>To break down physical, social, and attitudinal barriers that hinder the participation of people with disabilities in leisure activities.</li><li>To collaborate with different organizations and institutions to develop and implement inclusive leisure programs.</li><li>To create a space where people with and without disabilities can come together, learn from each other, and enjoy leisure activities in a welcoming and inclusive environment.</li></ul>",
+            "destination": "The project activities will take place on Saturdays from 10:00 to 12:00 at our headquarters, located at 1 San Juan de Dios Street, Córdoba."
+        }
+    ],
+    "teams": [
+        {
+            "name": "CHELI GUIJARRO JIMÉNEZ",
+            "position": "RESPONSIBLE FOR INCLUSIVE AND ACCESSIBLE THEATER SCHOOL GLORIA RAMOS",
+            "description": "Spanish Sign Language Interpreter, Guide Interpreter for Deafblind People, Communication Mediator, and Sign Language Specialist. Training and Experience in Accessibility and Inclusion.",
+            "admin_id": 2,
+            "is_director": false,
+            "project_id": 2
+        },
+        {
+            "name": "LUCIA SERRANO RAYA",
+            "position": "RESPONSIBLE FOR ACCESSIBILITY",
+            "description": "Master's in Secondary Education, Specialization in Educational Guidance. Teacher of Early Childhood Education. Interpreter and Specialist in Spanish Sign Language.",
+            "admin_id": 3,
+            "is_director": false,
+            "project_id": 4
+        },
+        {
+            "name": "RAQUEL ALIAGA GARCIA",
+            "position": "RESPONSIBLE FOR \"MUSIC THERAPY FOR ALL\" AND PARENTS' SCHOOL",
+            "description": "Master's in Music Therapy and Teacher of Music Education. Music Therapist in Early Childhood Intervention and Socio-Educational Settings.",
+            "admin_id": null,
+            "is_director": false,
+            "project_id": 1
+        },
+        {
+            "name": "SERGIO MARTÍN PAVÓN",
+            "position": "RESPONSIBLE FOR INCLUSIVE LEISURE",
+            "description": "Bachelor's in History. Activist and participant in the Deafblind community.",
+            "admin_id": null,
+            "is_director": true,
+            "project_id": 5,
+            "director_position": "VICE PRESIDENT",
+            "director_description": "Bachelor's in History. Activist and participant in the Deafblind community."
+        },
+        {
+            "name": "MARÍA DEL CARMEN ANTÚNEZ MIRANDA",
+            "position": null,
+            "description": null,
+            "admin_id": null,
+            "is_director": true,
+            "project_id": null,
+            "director_position": "SECRETARY",
+            "director_description": "University Diploma in Nursing. Advocate and participant in the rights of people with rare diseases. Her daughter Alba, her greatest motivation."
+        }
+    ],
+    "junta_directiva": [
+        {
+            "name": "JOSÉ MARÍA DOBADO LUNA",
+            "position": null,
+            "description": null
+        },
+        {
+            "name": "MARÍA DEL CARMEN ANTÚNEZ MIRANDA",
+            "position": null,
+            "description": null
+        }
+    ],
+    "equipo": [
+        {
+            "name": "CHELI GUIJARRO JIMÉNEZ",
+            "position": "RESPONSIBLE FOR INCLUSIVE AND ACCESSIBLE THEATER SCHOOL GLORIA RAMOS",
+            "description": "Spanish Sign Language Interpreter, Guide Interpreter for Deafblind People, Communication Mediator, and Sign Language Specialist. Training and Experience in Accessibility and Inclusion.",
+            "admin_id": 2,
+            "is_director": false,
+            "project_id": 2
+        },
+        {
+            "name": "LUCIA SERRANO RAYA",
+            "position": "RESPONSIBLE FOR ACCESSIBILITY",
+            "description": "Master's in Secondary Education, Specialization in Educational Guidance. Teacher of Early Childhood Education. Interpreter and Specialist in Spanish Sign Language.",
+            "admin_id": 3,
+            "is_director": false,
+            "project_id": 4
+        },
+        {
+            "name": "RAQUEL ALIAGA GARCIA",
+            "position": "RESPONSIBLE FOR \"MUSIC THERAPY FOR ALL\" AND PARENTS' SCHOOL",
+            "description": "Master's in Music Therapy and Teacher of Music Education. Music Therapist in Early Childhood Intervention and Socio-Educational Settings.",
+            "admin_id": null,
+            "is_director": false,
+            "project_id": 1
+        }
+    ],
+    "section": {
+        "container-class": "container-mision",
+        "heading-class": "custom_heading text-center",
+        "heading-text": "Mission,",
+        "subheading-text": "Ethics and Values",
+        "content": [
+            {
+                "heading": "Mission",
+                "paragraphs": [
+                    "We achieve accessibility with inclusion and respect, valuing the diverse personal abilities that make us unique.",
+                    "We promote the right to an inclusive society, the enjoyment of a dignified life, and equal opportunities, based on the integral development of individual and collective capacities as a transformative means of society."
+                ]
+            },
+            {
+                "heading": "Ethics and Values",
+                "paragraphs": [
+                    "PEOPLE: We believe that people are the greatest value of society, and all our actions are aimed at improving their quality of life.",
+                    "NON-PROFIT CHARACTER and ETHICAL MANAGEMENT: All economic, material, and human resources of Inclusive and Diverse are dedicated to fulfilling its social purposes.",
+                    "INNOVATION and CREATIVITY: We embrace innovative and creative resources, methodologies, therapies, and professionals. We combine the latest knowledge in different fields with the wisdom of extensive experience.",
+                    "TRANSPARENCY: Information about all the actions carried out by our organization, as well as the resources we have, is available to all interested parties.",
+                    "SOCIAL JUSTICE: We are built on equity and the full and universal exercise of human rights, respecting differences and diverse abilities.",
+                    "RESPECT: We consider respect as an essential value for social cohesion. We recognize and defend human diversity.",
+                    "SOCIAL AND ENVIRONMENTAL SUSTAINABILITY: We are convinced that it is essential for the development and well-being of people to occur in cultural, social, and natural balance, making optimal and sustainable use of resources for the development of our activities and the achievement of our objectives."
+                ]
+            }
+        ],
+    "section": {
+        "id": "nuestra-identidad",
+        "class": "history-section layout_padding",
+        "containers": [
+            {
+                "class": "container",
+                "heading-class": "custom_heading text-center",
+                "heading-text": "Our",
+                "subheading-text": "History"
+            },
+            {
+                "class": "container project-container",
+                "paragraphs": [
+                    "Good stories begin with individual experiences, coming together at the perfect moment to create a common dream.",
+                    "Our lives, due to personal circumstances or vocations, make us feel the strong impulse to explore paths and ways for people with different needs to enjoy a dignified life and equality, enriching ourselves through the characteristics that differentiate us.",
+                    "Each team member starts their training and professional journey separately. After many years of experience, teaching, music, theater, accessibility, and inclusion come together, intertwining our aspirations to create a shared project.",
+                    "Inclusive and Diverse is born from the passion and conviction that together, we can create a kinder place where everyone can live, learn, grow, and enjoy."
+                ]
+            }
+        ]
+    }
+},
+
+    "section_id": "nuestra-identidad",
+    "class": "history-section layout_padding",
+    "container": {
+        "class": "container",
+        "heading": {
+            "class": "custom_heading text-center",
+            "text": "Our History",
+            "span": "History"
+        }
+    },
+    "project_container": {
+        "class": "container project-container",
+        "paragraph": "Good stories are the ones that begin with individual experiences, coming together at the perfect moment to create a shared dream.\n\nOur lives, due to personal or vocational circumstances, make us feel the strong urge to explore paths and ways so that people with different needs can enjoy a dignified and equal life, enriching ourselves with the characteristics that set us apart.\n\nEach team member starts their training and professional trajectory separately. After many years of experience, teaching, music, theater, Accessibility, and inclusion intertwine our aspirations, creating a common project.\n\nInclusivos y Diversos was born from the passion and conviction that together, we can create a kinder place where everyone can live, learn, grow, and enjoy."
+    }
+}
+

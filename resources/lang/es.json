@@ -1,0 +1,292 @@
+{
+    "navbar": {
+        "home": "Inicio",
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contact": "Contacto",
+        "login": "Iniciar sesión",
+        "register": "Registrarse",
+        "projects": "Proyectos",
+        "teams": "Equipo",
+        "students": "Alumnos",
+        "requests": "Solicitudes",
+        "interpreter": "Intérprete",
+        "my_projects": "Mis proyectos",
+        "my_requests": "Mis solicitudes",
+        "my_space": "Mi espacio",
+        "become_member": "Hazte socio",
+        "logout": "Cerrar sesión"
+    },
+    "carousel": {
+        "slide1_title": "inlusiviApp",
+        "slide1_subtitle": "¿Quiénes somos?",
+        "slide1_content": "Logramos accesibilidad con inclusión y respeto, valorando las diversas capacidades personales que nos hacen únicos. Tenemos la certeza de que las personas son el mayor valor de la sociedad y todas nuestras acciones van dirigidas a mejorar su calidad de vida.",
+        "slide1_button": "Conócenos",
+        "slide2_title": "InclusiviApp",
+        "slide2_subtitle": "Descubre nuestros proyectos",
+        "slide2_list": [
+            "Musicoterapia para Tod@s y escuela de padres",
+            "Escuela de Teatro Inclusivo y Accesible Gloria Ramos",
+            "Escuela de Lengua de Signos Española",
+            "Escuela de Accesibilidad",
+            "Ocio Inclusivo"
+        ],
+        "slide2_button1": "Descubrir",
+        "slide2_button2": "Inscribirse",
+        "slide3_title": "InclusiviApp",
+        "slide3_subtitle": "Solicita tu servicio de ILSE o GILSE",
+        "slide3_content": "Si necesitas un intérprete de Lengua de Signos Española (ILSE) o Lengua de Signos Catalana (GILSE), puedes contar con nosotras. ¡Hazte socio si aún no lo eres y podrás disfrutar de nuestro servicio!",
+        "slide3_button1": "Solicitar",
+        "slide3_button2": "Hacerse socio"
+    },
+    "about": {
+        "about_title": "Sobre Nosotros",
+        "app_name": "InclusiviApp",
+        "intro_paragraph": "Sabemos que esperabas encontrar un “sobre nosotros” en este espacio. Pero en Inclusivos y Diversos pensamos que nos conocerás mejor si te contamos primero qué no somos.",
+        "list_item1": "NO SOMOS ayuda, somos aprendizaje.",
+        "list_item2": "NO SOMOS iguales, somos maravillosamente auténticos.",
+        "list_item3": "NO SOMOS indolentes, somos lo que creemos.",
+        "list_item4": "NO SOMOS el lugar, somos los millones de caminos que acompañan hasta llegar.",
+        "list_item5": "NO SOMOS palabras, somos acción y presente.",
+        "list_item6": "NO SOMOS un lugar, somos un espacio.",
+        "main_paragraph": "Ah, y NO SOMOS tampoco perfectas, sólo somos un equipo de profesionales con una fuerte vocación y un gran amor y respeto hacia las personas y sus diversidades. Queremos mejorar la sociedad, la vida y porque no, el mundo.",
+        "learn_more": "Conócenos"
+    },
+    "gallery_section": {
+        "title": "Nuestros Proyectos"
+    },
+    "projects": [
+        {
+            "name": "Musicoterapia para Tod@s y escuela de padres",
+            "description": "La musicoterapia (MT) es una terapia donde la música es la principal vía de comunicación y expresión. Favorece el desarrollo motriz, cognitivo, social y emocional hacia la mejora de la calidad de vida. Potencia las funciones cognitivas como la atención, concentración, memoria, control de impulsos y fijación de nuevos contenidos. Además, fomenta la creatividad, la formación de conceptos y agilidad mental. Asimismo, contribuye a fomentar el aprendizaje y la resolución de problemas.",
+            "team_description": "Profesional titulada en Máster en Musicoterapia y Maestra en Educación Musical se dedica a la Musicoterapia y brinda apoyo a través del taller de Musicoterapia y Escuela de Padres. Con experiencia en Atención Infantil Temprana y ámbito Socio Educativo, esta experta utiliza la música como herramienta terapéutica para promover el desarrollo y el bienestar de las personas. Además, ofrece orientación y recursos a los padres, ayudándoles a fortalecer la crianza y el vínculo con sus hijos a través de la música. Con pasión por la igualdad, la diversidad y el amor, esta profesional busca el crecimiento y la transformación a través de la terapia musical y el apoyo a los padres en su labor educativa.",
+            "objectives": "<p>La musicoterapia es una disciplina terapéutica que utiliza la música como herramienta principal para promover el bienestar y la salud de las personas. A través de la participación activa en experiencias musicales estructuradas, se busca trabajar en diferentes aspectos emocionales, cognitivos, físicos y sociales. Los objetivos que perseguimos son:</p><ul><li>Promover la expresión emocional.</li><li>Mejorar la comunicación y la interacción social.</li><li>Estimular el desarrollo cognitivo y sensorial.</li><li>Reducir el estrés y promover la relajación.</li><li>Mejorar la calidad de vida.</li></ul>",
+            "destination": "El proyecto se desarrollará los LUNES de 17:00 a 18:30 en nuestra sede, en la Calle San Juan de Dios, 1, Córdoba."
+        },
+        {
+            "name": "Escuela de Teatro Inclusivo y Accesible Gloria Ramos",
+            "description": "<p>“Si crees totalmente en ti misma, no habrá nada que esté fuera de tus posibilidades”</p><p>La Asociación Inclusivos y Diversos da vida a este proyecto de Teatro Diverso, donde se fusionan arte e inclusión, dando un espacio a la preocupación y necesidad de crear una realidad donde personas con diferentes diversidades funcionales puedan desarrollar sus capacidades a través del Teatro.</p>",
+            "team_description": "Tituladas en enseñanzas artísticas superiores de Arte Dramático, Educación Musical y Danza, se unen a profesionales especialistas en Accesibilidad e Inclusión Social para desarrollar talleres y actividades teatrales adaptadas a cada participante, fomentando la creatividad, la autoexpresión, la comunicación y el trabajo en equipo. Creen firmemente en el poder transformador del arte y su capacidad para promover el cambio social y la inclusión.",
+            "objectives": "<p>Los objetivos del proyecto son:</p><ul><li>Fomentar la inclusión y la igualdad de oportunidades a través del teatro.</li><li>Promover la expresión creativa y artística de cada participante.</li><li>Desarrollar habilidades sociales y de comunicación.</li><li>Mejorar la autoestima y la confianza en sí mismos.</li><li>Potenciar el trabajo en equipo y la colaboración.</li></ul>",
+            "destination": "Las sesiones de teatro se llevarán a cabo los MARTES de 18:00 a 19:30 en nuestra sede, en la Calle San Juan de Dios, 1, Córdoba."
+        },
+        {
+            "name": "Escuela de Lengua de Signos",
+            "description": "La sociedad en la que vivimos es mayoritariamente oyente, de manera que gran parte de los contactos comunicativos y los canales de transmisión de información son orales-auditivos, por lo que la información que perciben las personas SORDAS en sus relaciones comunicativas es mínima, influyendo en su aislamiento social y en su desarrollo personal e intelectual. Contribuir a paliar esta problemática lo entendemos de vital necesidad. En Inclusiv@s y Divers@s, deseamos concienciar y promover la responsabilidad social en la inclusión de las personas Sordas en la sociedad, tal y como refleja la ley 27/2007 del 23 de octubre por la que se reconoce las Lenguas de Signos Española y se regulan los medios de apoyo a la Comunicación de las Personas con Discapacidad Auditiva y Sordociegas, apostando así por una inclusión real. Contribuimos de esta forma al desarrollo del objetivo 11 de la O.D.S. ciudades y comunidades sostenibles, apostando por unas ciudades más inclusivas, seguras, resilientes y sostenibles.",
+            "image": "storage/images/P-signos.svg",
+            "team_description": "Profesionales tituladas en Lengua de Signos Española, con amplia experiencia en el ámbito de la educación y la inclusión, se unen para dar vida a la Escuela de Lengua de Signos de Inclusiv@s y Divers@s. Juntas crean un tándem perfecto donde Arte, igualdad, diversidad y mucho amor encuentran el mismo camino para crecer a través de las Artes escénicas.",
+            "objectives": "<p>La lengua de signos es la lengua natural de las personas sordas, por lo que es de vital importancia que la sociedad la conozca y la aprenda para poder comunicarse con las personas sordas y así poder incluirlas en la sociedad. Por ello, los objetivos que perseguimos son:</p><ul><li>Difundir el conocimiento sobre la diversidad funcional y concienciar sobre la importancia de la inclusión en la sociedad.</li><li>Facilitar el acceso a información, recursos y servicios que promuevan la igualdad de oportunidades para las personas con diversidad funcional.</li><li>Promover la interacción y la colaboración entre personas con y sin diversidad funcional, fomentando la creación de redes de apoyo y la participación activa.</li></ul>",
+            "destination": "El proyecto se desarrollará los MIÉRCOLES de 17:00 a 18:30 en nuestra sede, en la Calle San Juan de Dios, 1, Córdoba."
+        },
+        {
+            "name": "Escuela de Accesibilidad",
+            "description": "<p>La accesibilidad universal es aquella condición que deben cumplir los entornos, procesos, bienes, productos y servicios para que todas las personas puedan participar de manera autónoma y con las mismas oportunidades (Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social)</p>",
+            "image": "storage/images/p-accesibilidad.svg",
+            "team_description": "Lucía es una profesional especializada en accesibilidad universal, comprometida en garantizar que los entornos, procesos, bienes, productos y servicios sean accesibles para todas las personas, brindando igualdad de oportunidades y autonomía. Con un profundo conocimiento del marco legal, Lucía trabaja incansablemente para crear conciencia sobre la importancia de la inclusión y promover entornos accesibles. Su objetivo principal es colaborar con organizaciones y comunidades para construir un mundo donde todas las personas, sin importar sus capacidades, puedan participar plenamente en la sociedad.",
+            "objectives": "<p>Inclusivos y Diversos es una iniciativa comprometida con la creación de una sociedad más justa e inclusiva, donde todas las personas, independientemente de sus diversidades funcionales, tengan igualdad de oportunidades. A través de nuestro trabajo, buscamos eliminar barreras y promover la inclusión a través del arte, la cultura y la educación.</p><p>Objetivos:</p><ul><li>Difundir el conocimiento de la Lengua de Signos Española entre las personas oyentes con el fin de eliminar barreras comunicativas.</li><li>Visibilizar y dar a conocer la importancia y los valores de la Comunidad Sorda.</li><li>Sensibilizar sobre la importancia de generar una sociedad más inclusiva.</li><li>Ensalzar y poner en valor el teatro, el arte y la cultura en general como herramientas de inclusión.</li><li>Crear un nuevo lenguaje escénico donde la diferencia sea la oportunidad para el enriquecimiento.</li><li>Entender el teatro como una estrategia de mediación pedagógica para el desarrollo integral de todas las personas.</li><li>Concienciar y visibilizar la importancia de la creación de espacios inclusivos donde personas con y sin diversidad funcional coexistan, aprendan, crezcan y se sientan plenas.</li><li>Generar recursos y materiales que promuevan la inclusión y la accesibilidad en todas las áreas de la sociedad.</li></ul>",
+            "destination": "El proyecto se desarrollará los JUEVES de 17:00 a 18:30 en nuestra sede, en la Calle San Juan de Dios, 1, Córdoba."
+        },
+        {
+            "name": "Ocio Inclusivo",
+            "description": "<p>El ocio inclusivo es el conjunto de actividades destinadas a conseguir que las personas con discapacidad disfruten de su tiempo libre. Tanto la Constitución en su artículo 49 como la Convención de la Organización de Naciones Unidas (ONU) sobre los Derechos de las Personas con Discapacidad establecen que el ocio es un derecho para todas las personas con discapacidad. El ocio inclusivo requiere la implementación de actividades recreativas y lúdicas que puedan ser disfrutadas por todo tipo de personas con discapacidad. Para su correcto desarrollo es necesario garantizar la accesibilidad universal y contar con un equipo de profesionales especializados que puedan organizar y coordinar las actividades.</p>",
+            "image": "storage/images/p-ocio.svg",
+            "team_description": "Nuestro equipo de profesionales está compuesto por personas con una amplia experiencia en el ámbito del ocio inclusivo y la atención a personas con diversidad funcional. Contamos con monitores especializados en diferentes áreas recreativas y deportivas, así como profesionales de la educación y la psicología. Todos ellos comparten la misma pasión por promover la inclusión y garantizar que todas las personas, independientemente de sus capacidades, tengan la oportunidad de disfrutar de su tiempo libre de manera plena y satisfactoria.",
+            "objectives": "<p>Nuestro objetivo principal es promover la igualdad de oportunidades en el ámbito del ocio, garantizando que todas las personas, independientemente de sus capacidades, puedan participar y disfrutar de su tiempo libre. Para ello, nos planteamos los siguientes objetivos:</p><ul><li>Crear un espacio de ocio inclusivo donde todas las personas se sientan bienvenidas y valoradas.</li><li>Ofrecer actividades recreativas y deportivas adaptadas a las necesidades de cada persona.</li><li>Promover la interacción y el intercambio de experiencias entre personas con y sin diversidad funcional.</li><li>Fomentar la conciencia y sensibilización sobre la importancia de la inclusión en el ámbito del ocio.</li><li>Generar recursos y materiales que promuevan la inclusión y la accesibilidad en el ámbito del ocio.</li></ul>",
+            "destination": "El proyecto se desarrollará los VIERNES de 17:00 a 18:30 en nuestra sede, en la Calle San Juan de Dios, 1, Córdoba."
+        }
+    ],
+    "teams": [
+        {
+            "name": "CHELI GUIJARRO JIMÉNEZ",
+            "position": "RESPONSABLE DE LA ESCUELA DE TEATRO INCLUSIVO Y ACCESIBLE GLORIA RAMOS",
+            "description": "Intérprete de Lengua de Signos Española, Guía Intérprete de Personas Sordo Ciegas, Mediadora Comunicativa y Especialista en Lengua de Signos. Formación y Experiencia en Accesibilidad e Inclusión.",
+            "admin_id": 2,
+            "is_director": false,
+            "project_id": 2
+        },
+        {
+            "name": "LUCIA SERRANO RAYA",
+            "position": "RESPONSABLE DE ACCESIBILIDAD",
+            "description": "Máster en Educación Secundaria, Especialización En Orientación Educativa. Maestra de Educación Infantil. Intérprete y Especialista Lengua de Signos Española.",
+            "admin_id": 3,
+            "is_director": false,
+            "project_id": 4
+        },
+        {
+            "name": "RAQUEL ALIAGA GARCIA",
+            "position": "RESPONSABLE DE “MUSICOTERAPIA PARA TODOS” Y ESCUELA DE PADRES",
+            "description": "Máster en Musicoterapia y Maestra en Educación Musical. Musicoterapeuta en Atención Infantil Temprana y ámbito Socio Educativo",
+            "admin_id": null,
+            "is_director": false,
+            "project_id": 1
+        },
+        {
+            "name": "SERGIO MARTÍN PAVÓN",
+            "position": "RESPONSABLE DE OCIO INCLUSIVO",
+            "description": "Graduado en Historia. Activista y participante de la comunidad Sordociega.",
+            "admin_id": null,
+            "is_director": true,
+            "project_id": 5,
+            "director_position": "VICEPRESIDENTE",
+            "director_description": "Graduado en Historia. Activista y participante de la comunidad Sordociega."
+        },
+        {
+            "name": "JOSÉ MARÍA DOBADO LUNA",
+            "position": null,
+            "description": null,
+            "admin_id": null,
+            "is_director": true,
+            "project_id": null,
+            "director_position": "PRESIDENTE",
+            "director_description": "Licenciado en Filología Hispánica. Profesor de Lengua Española y Literatura. Conocedor de la Comunidad Sorda y su lengua, gracias a su experiencia docente dentro de la misma."
+        },
+        {
+            "name": "MARÍA DEL CARMEN ANTÚNEZ MIRANDA",
+            "position": null,
+            "description": null,
+            "admin_id": null,
+            "is_director": true,
+            "project_id": null,
+            "director_position": "SECRETARIA",
+            "director_description": "Diplomada Universitaria de Enfermería. Defensora y participante de los derechos de las personas con enfermedades raras. Su hija Alba, su mayor razón."
+        },
+        {
+            "name": "LUCIA SERRANO Y CHELI GUIJARRO",
+            "position": "RESPONSABLES DE LA ESCUELA DE LENGUA DE SIGNOS ESPAÑOLA",
+            "description": null,
+            "admin_id": null,
+            "is_director": false,
+            "project_id": 3
+        }
+    ],
+    "junta_directiva": [
+        {
+            "name": "JOSÉ MARÍA DOBADO LUNA",
+            "position": null,
+            "description": null
+        },
+        {
+            "name": "MARÍA DEL CARMEN ANTÚNEZ MIRANDA",
+            "position": null,
+            "description": null
+        }
+    ],
+    "equipo": [
+        {
+            "name": "CHELI GUIJARRO JIMÉNEZ",
+            "position": "RESPONSABLE DE LA ESCUELA DE TEATRO INCLUSIVO Y ACCESIBLE GLORIA RAMOS",
+            "description": "Intérprete de Lengua de Signos Española, Guía Intérprete de Personas Sordo Ciegas, Mediadora Comunicativa y Especialista en Lengua de Signos. Formación y Experiencia en Accesibilidad e Inclusión.",
+            "admin_id": 2,
+            "is_director": false,
+            "project_id": 2
+        },
+        {
+            "name": "LUCIA SERRANO RAYA",
+            "position": "RESPONSABLE DE ACCESIBILIDAD",
+            "description": "Máster en Educación Secundaria, Especialización En Orientación Educativa. Maestra de Educación Infantil. Intérprete y Especialista Lengua de Signos Española.",
+            "admin_id": 3,
+            "is_director": false,
+            "project_id": 4
+        },
+        {
+            "name": "RAQUEL ALIAGA GARCIA",
+            "position": "RESPONSABLE DE “MUSICOTERAPIA PARA TODOS” Y ESCUELA DE PADRES",
+            "description": "Máster en Musicoterapia y Maestra en Educación Musical. Musicoterapeuta en Atención Infantil Temprana y ámbito Socio Educativo",
+            "admin_id": null,
+            "is_director": false,
+            "project_id": 1
+        },
+        {
+            "name": "SERGIO MARTÍN PAVÓN",
+            "position": "RESPONSABLE DE OCIO INCLUSIVO",
+            "description": "Graduado en Historia. Activista y participante de la comunidad Sordociega.",
+            "admin_id": null,
+            "is_director": true,
+            "project_id": 5,
+            "director_position": "VICEPRESIDENTE",
+            "director_description": "Graduado en Historia. Activista y participante de la comunidad Sordociega."
+        },
+        {
+            "name": "MARÍA DEL CARMEN ANTÚNEZ MIRANDA",
+            "position": null,
+            "description": null,
+            "admin_id": null,
+            "is_director": true,
+            "project_id": null,
+            "director_position": "SECRETARIA",
+            "director_description": "Diplomada Universitaria de Enfermería. Defensora y participante de los derechos de las personas con enfermedades raras. Su hija Alba, su mayor razón."
+        },
+        {
+            "name": "LUCIA SERRANO Y CHELI GUIJARRO",
+            "position": "RESPONSABLES DE LA ESCUELA DE LENGUA DE SIGNOS ESPAÑOLA",
+            "description": null,
+            "admin_id": null,
+            "is_director": false,
+            "project_id": 3
+        }
+    ],
+    "section": {
+        "container-class": "container-mision",
+        "heading-class": "custom_heading text-center",
+        "heading-text": "Misión,",
+        "subheading-text": "Ética y Valores",
+        "content": [
+            {
+                "heading": "Misión",
+                "paragraphs": [
+                    "Logramos accesibilidad con inclusión y respeto, valorando las diversas capacidades personales que nos hacen únicos.",
+                    "Promovemos el derecho a una sociedad inclusiva, el disfrute de una vida digna y en igualdad de oportunidades, partiendo del desarrollo integral de las capacidades individuales y colectivas como medio transformador de la sociedad."
+                ]
+            },
+            {
+                "heading": "Ética y Valores",
+                "paragraphs": [
+                    "PERSONAS: Tenemos la certeza de que las personas son el mayor valor de la sociedad y todas nuestras acciones van dirigidas a mejorar su calidad de vida.",
+                    "CARÁCTER NO LUCRATIVO y GESTIÓN ÉTICA: Todos los recursos económicos, materiales y humanos de Inclusivos y Diversos están destinados al cumplimiento de sus fines sociales.",
+                    "INNOVACIÓN y CREATIVIDAD: Apostamos por recursos, metodologías, terapias y profesionales innovadoras y creativas. Aunamos los últimos conocimientos en las distintas materias y la sabiduría de una larga experiencia.",
+                    "TRANSPARENCIA: La información de todas las acciones ejecutadas desde nuestra entidad, así como de los recursos de los que disponemos están a disposición de todas las personas interesadas.",
+                    "JUSTICIA SOCIAL: Nos construimos desde la equidad y el ejercicio pleno y universal de los derechos humanos, el respeto a las diferencias y sus distintas capacidades.",
+                    "RESPETO: Consideramos el respeto como un valor imprescindible para la cohesión social, reconocemos y defendemos la diversidad humana.",
+                    "SOSTENIBILIDAD SOCIAL Y AMBIENTAL: Estamos convencidos de que es esencial que el desarrollo y bienestar de las personas se produzca en equilibrio cultural, social y natural, usando de manera óptima y sostenible los recursos para el desarrollo de nuestras actividades y el logro de nuestros objetivos."
+                ]
+            }
+        ],
+        "section": {
+            "class": "history-section layout_padding",
+            "containers": [
+                {
+                    "class": "container",
+                    "heading-class": "custom_heading text-center",
+                    "heading-text": "Nuestra",
+                    "subheading-text": "Historia"
+                },
+                {
+                    "class": "container project-container",
+                    "paragraphs": [
+                        "Las buenas historias son aquellas que comienzan con experiencias individuales y se unen en el momento perfecto para crear un sueño en común.",
+                        "Nuestras vidas, ya sea por circunstancias personales o vocacionales, nos impulsan a buscar caminos y vías para que las personas con diferentes necesidades puedan disfrutar de una vida digna y en igualdad, enriqueciéndonos mutuamente con las características que nos diferencian.",
+                        "Cada miembro del equipo comienza su formación y su trayectoria profesional por separado. Después de muchos años de experiencia en docencia, música, teatro, accesibilidad e inclusión, nuestras ilusiones se entrelazan para crear un proyecto en común.",
+                        "Inclusivos y Diversos nace de la pasión y la convicción de que juntos podemos crear un lugar más amable donde todos y todas podamos vivir, aprender, crecer y disfrutar."
+                    ]
+                }
+            ]
+        }
+    },
+    "section_id": "nuestra-identidad",
+    "class": "history-section layout_padding",
+    "container": {
+        "class": "container",
+        "heading": {
+            "class": "custom_heading text-center",
+            "text": "Nuestra Historia",
+            "span": "Historia"
+        }
+    },
+    "project_container": {
+        "class": "container project-container",
+        "paragraph": "Las buenas historias son las que empiezan con experiencias individuales, llegándose a unir en el momento perfecto para crear un sueño en común.\n\nNuestras vidas, por circunstancias personales o vocacionales, nos hacen sentir el fuerte impulso de conocer vías y caminos para que, personas con distintas necesidades puedan disfrutar de una vida digna y en igualdad, enriqueciéndonos mutuamente de las características que nos diferencian.\n\nCada miembro del equipo comienza su formación y su trayectoria profesional por separado. Tras muchos años de experiencia, la docencia, la música, el teatro, la Accesibilidad o la inclusión hacen que las ilusiones de todos nosotros se entrelacen creando un proyecto en común.\n\nInclusivos y Diversos nace desde la pasión y convicción de que juntos, podemos crear un lugar más amable en el que todos y todas podamos vivir, aprender, crecer y disfrutar."
+    }
+}
+
+
+
