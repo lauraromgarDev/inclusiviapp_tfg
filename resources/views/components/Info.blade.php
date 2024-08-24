@@ -40,8 +40,9 @@
                             608853345
                         </li>
                         <li>
-                            info@inclusiviapp.com
+                            <a href="https://www.inclusivosydiversos.org/" target="_blank">www.inclusivosydiversos.org</a>
                         </li>
+
                         <li>
                             C/ San Juan de Dios, 1, Córdoba.
                         </li>
