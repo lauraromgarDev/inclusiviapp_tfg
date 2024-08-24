@@ -7,7 +7,7 @@
 
         <!-- Logo en la barra de navegación (visible en móviles) -->
         <a class="navbar-brand d-lg-none" href="{{ Auth::guest() ? url('/') : (Auth::guard('admin')->check() ? route('admin.dashboard', app()->getLocale()) : route('main.index', app()->getLocale())) }}">
-            <img src="{{ asset('storage/images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
+            <img src="{{ asset('images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
         </a>
 
 
@@ -16,7 +16,7 @@
                 @guest
                     <li class="nav-item d-none d-lg-block">
                         <a class="navbar-brand" href="{{ url('/') }}">
-                            <img src="{{ asset('storage/images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
+                            <img src="{{ asset('images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
                         </a>
                     </li>
 
@@ -49,7 +49,7 @@
                     @if(Auth::guard('admin')->check())
                         <li class="nav-item d-none d-lg-block">
                             <a class="navbar-brand" href="{{ route('admin.dashboard', app()->getLocale()) }}">
-                                <img src="{{ asset('storage/images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
+                                <img src="{{ asset('images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
                             </a>
                         </li>
 
@@ -69,7 +69,7 @@
                     @else
                         <li class="nav-item d-none d-lg-block">
                             <a class="navbar-brand" href="{{ route('main.index', app()->getLocale()) }}">
-                                <img src="{{ asset('storage/images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
+                                <img src="{{ asset('images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
                             </a>
                         </li>
 

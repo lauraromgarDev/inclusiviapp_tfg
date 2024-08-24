@@ -19,15 +19,14 @@
                                     <p>@lang('acerca.realizado') <br>
                                         <b>Laura Romero García</b><br></p>
 
-                                    <p>@lang('acerca.centro')<br>
-                                        <b>IES Trassierra - Córdoba</b></p>
+                                    <p>@lang('acerca.centro')</p>
 
                                 </td>
                             </tr>
                             <tr>
-                                <td><img src="{{ asset('storage/images/Logo-IES.png') }}" class="card-img-top"
+                                <td><img src="{{ asset('images/Logo-IES.png') }}" class="card-img-top"
                                          alt="logo ies" style="width: 200px">
-                                    <img src="{{ asset('storage/images/logoB2.png') }}" class="card-img-top"
+                                    <img src="{{ asset('images/logoB2.png') }}" class="card-img-top"
                                          alt="logo ies" style="width: 200px">
                                 </td>
                             </tr>

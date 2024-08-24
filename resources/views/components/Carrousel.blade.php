@@ -28,7 +28,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="slider_img-box">
-                                <img src="{{ asset('storage/images/3.svg') }}" alt="picture">
+                                <img src="{{ asset('images/3.svg') }}" alt="picture">
                             </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="slider_img-box">
-                                <img src="{{ asset('storage/images/havingfun.jpg') }}" alt="">
+                                <img src="{{ asset('images/havingfun.jpg') }}" alt="">
                             </div>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="slider_img-box">
-                                <img src="{{ asset('storage/images/2.svg') }}" alt="">
+                                <img src="{{ asset('images/2.svg') }}" alt="">
                             </div>
                         </div>
                     </div>

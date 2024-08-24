@@ -70,7 +70,7 @@
                                         @endif
                                     </td>
                                     <td class="d-none d-lg-table-cell">
-                                        <img src="{{ asset('storage/images/' . basename($team->image)) }}"
+                                        <img src="{{ asset('images/' . basename($team->image)) }}"
                                              alt="{{ $team->name }}" width="100px">
                                     </td>
                                     <td>
@@ -118,7 +118,7 @@
                                 </tr>
                                 <tr class="d-lg-none">
                                     <td colspan="2"><strong>@lang('sobreNosotros.foto'):</strong><br><img
-                                            src="{{ asset('storage/images/' . basename($team->image)) }}"
+                                            src="{{ asset('images/' . basename($team->image)) }}"
                                             alt="{{ $team->name }}" width="100px"></td>
                                 </tr>
                             @endforeach

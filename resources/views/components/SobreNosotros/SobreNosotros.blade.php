@@ -44,7 +44,7 @@
             </div>
             <div class="col-md-6 order-md-1">
                 <div class="img-box">
-                    <img src="{{ asset('storage/images/quesomos.jpg') }}" alt="">
+                    <img src="{{ asset('images/quesomos.jpg') }}" alt="">
                 </div>
             </div>
         </div>

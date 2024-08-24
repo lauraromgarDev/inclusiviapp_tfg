@@ -5,7 +5,7 @@
         <div class="container-card">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="{{ asset('storage/images/' . basename($team->image)) }}" alt="{{ $team->name }}" width="100%">
+                    <img src="{{ asset('images/' . basename($team->image)) }}" alt="{{ $team->name }}" width="100%">
                 </div>
                 <div class="col-lg-6">
                     <h1>{{ __($team->name) }}</h1>

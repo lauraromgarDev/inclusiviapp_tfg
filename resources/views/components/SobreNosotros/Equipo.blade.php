@@ -13,7 +13,7 @@
                             <div class="col-md-4 mb-4">
                                 <div class="img_box">
                                     <div class="img_container">
-                                        <img src="{{ asset('storage/images/' . $team->image) }}" class="card-img-top"
+                                        <img src="{{ asset('images/' . $team->image) }}" class="card-img-top"
                                              alt="Imagen de {{$team->name}}">
                                     </div>
                                 </div>
@@ -37,7 +37,7 @@
                     <div class="col-md-3 mb-4">
                         <div class="img_box">
                             <div class="img_container">
-                                <img src="{{ asset('storage/images/' . $team->image) }}" class="card-img-top"
+                                <img src="{{ asset('images/' . $team->image) }}" class="card-img-top"
                                      alt="Imagen de {{$team->name}}">
                             </div>
                         </div>

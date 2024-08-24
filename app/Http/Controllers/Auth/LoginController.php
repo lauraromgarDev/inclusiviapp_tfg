@@ -87,7 +87,6 @@ class LoginController extends Controller
     {
         // Busca al administrador
         $admin = Administrator::where('email', $request->email)->first();
-
         // Si existe un administrador con ese correo y su contraseña es correcta
         if ($admin && password_verify($request->password, $admin->password)) {
             // Iniciar sesión con el guard 'administrators'

@@ -5,7 +5,7 @@
             <div class="item">
                 <div class="detail-box">
                     <p>
-                        <img src="{{ asset('storage/images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
+                        <img src="{{ asset('images/logoB2.png') }}" style="width: 250px; height: auto;" alt="Logo">
                     </p>
 
                 </div>

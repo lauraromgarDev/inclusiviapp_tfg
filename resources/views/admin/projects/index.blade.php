@@ -36,7 +36,7 @@
                                 <tr>
                                     <td class="d-none d-lg-table-cell">{{ $project->id }}</td>
 {{--                                    <td class="d-none d-lg-table-cell"><img--}}
-{{--                                            src="{{ asset('storage/images/' . basename($project->image)) }}"--}}
+{{--                                            src="{{ asset('images/' . basename($project->image)) }}"--}}
 {{--                                            alt="{{ $project->name }}" width="100px">--}}
 {{--                                    </td>--}}
                                     <td class="d-none d-lg-table-cell">
@@ -66,7 +66,7 @@
                                 </tr>
                                 <tr class="d-lg-none">
 {{--                                    <td colspan="2"><strong>@lang('proyectos.foto'):</strong><br><img--}}
-{{--                                            src="{{ asset('storage/images/' . basename($project->image)) }}"--}}
+{{--                                            src="{{ asset('images/' . basename($project->image)) }}"--}}
 {{--                                            alt="{{ $project->name }}" width="100px">--}}
 {{--                                    </td>--}}
                                     <td colspan="2">
